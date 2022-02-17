@@ -1,0 +1,15 @@
+body{
+    background-image: url("../images/y-fIuIXpr4I.jpg");
+    background-size: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed;*/
+    width: 100%;
+   
+}
+.members{
+    font-size: 35px;
+    font-weight: bold
+    ;
+}
